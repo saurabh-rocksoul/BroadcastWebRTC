@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WebRTC Video/Audio Broadcast
 
 Sends a video from the broadcast page to all connected clients (watchers) over WebRTC PeerToPeer connections.
@@ -35,3 +36,6 @@ Gabriel Tanner
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+=======
+# BroadcastWebRTC
+>>>>>>> ca4068bd5fb042c19e86f16dc4152c83bb6c03ed
